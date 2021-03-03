@@ -16,11 +16,5 @@ sudo systemctl status tomcat9
 sudo apt-get update
 sudo apt-get install mariadb-server
 sudo mysql_secure_installation
-<<<<<<< HEAD
 sudo systemctl start mariadb
 sudo mariadbjava --version
-<<<<<<< HEAD
-=======
->>>>>>> parent of 1453d3c... Actividad2 V10
-=======
->>>>>>> parent of 9f2e7ca... Actividad2 V11
