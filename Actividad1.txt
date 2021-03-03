@@ -7,3 +7,5 @@ ufw enable
 sudo apt-get install dnsutils
 dig www.google.es
 nslookup www.google.es
+sudo apt-get install curl
+curl www.google.es
