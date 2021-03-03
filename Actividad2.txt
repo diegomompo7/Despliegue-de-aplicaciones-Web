@@ -1,1 +1,4 @@
 sudo apt-get install apache2
+cd /etc/apache2 
+nano apache2.conf
+nano ports.conf 
