@@ -6,3 +6,4 @@ sudo systemctl status apache2
 sudo service apache2 stop
 sudo service apache2 start
 sudo apt-get install tomcat9
+cd /var/lib/tomcat9
