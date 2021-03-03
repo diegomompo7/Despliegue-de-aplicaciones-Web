@@ -13,3 +13,5 @@ sudo apt-get install tomcat9-docs tomcat9-admin tomcat9-examples
 sudo service tomcat9 stop
 sudo service tomcat9 start
 sudo systemctl status tomcat9
+sudo apt-get update
+sudo apt-get install mariadb-server
