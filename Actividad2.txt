@@ -1,4 +1,7 @@
 sudo apt-get install apache2
 cd /etc/apache2 
-nano apache2.conf
-nano ports.conf 
+sudo nano apache2.conf
+sudo nano ports.conf 
+sudo systemctl status apache2
+sudo service apache2 stop
+sudo service apache2 start
