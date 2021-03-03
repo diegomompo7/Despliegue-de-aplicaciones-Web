@@ -1,4 +1,3 @@
-
 ipconfig
 ping
 netstat -l
