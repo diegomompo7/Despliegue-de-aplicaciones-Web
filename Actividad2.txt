@@ -15,3 +15,4 @@ sudo service tomcat9 start
 sudo systemctl status tomcat9
 sudo apt-get update
 sudo apt-get install mariadb-server
+sudo mysql_secure_installation
