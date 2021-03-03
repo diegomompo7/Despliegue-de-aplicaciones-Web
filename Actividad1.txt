@@ -1,3 +1,6 @@
 ipconfig
 ping
 netstat -l
+sudo apt-get install ufw
+ufw status verbose
+ufw enable
