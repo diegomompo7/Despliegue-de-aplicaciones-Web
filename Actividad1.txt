@@ -4,3 +4,6 @@ netstat -l
 sudo apt-get install ufw
 ufw status verbose
 ufw enable
+sudo apt-get install dnsutils
+dig www.google.es
+
