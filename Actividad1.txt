@@ -6,4 +6,4 @@ ufw status verbose
 ufw enable
 sudo apt-get install dnsutils
 dig www.google.es
-
+nslookup www.google.es
