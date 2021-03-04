@@ -20,8 +20,5 @@ sudo apt-get install mariadb-server
 sudo mysql_secure_installation
 sudo systemctl start mariadb
 sudo mariadb
+
 java --version
-<<<<<<< HEAD
->>>>>>> 43f9153db0abdba350a84cde6edd0aa6f9bf18b7
-=======
->>>>>>> 43f9153db0abdba350a84cde6edd0aa6f9bf18b7
