@@ -1,1 +1,24 @@
 sudo apt-get install apache2
+<<<<<<< HEAD
+=======
+cd /etc/apache2 
+sudo nano apache2.conf
+sudo nano ports.conf 
+sudo systemctl status apache2
+sudo service apache2 stop
+sudo service apache2 start
+sudo apt-get install tomcat9
+cd /var/lib/tomcat9
+cd /var/lib/tomcat9/conf
+sudo nano tomcat-users.xml
+sudo apt-get install tomcat9-docs tomcat9-admin tomcat9-examples
+sudo service tomcat9 stop
+sudo service tomcat9 start
+sudo systemctl status tomcat9
+sudo apt-get update
+sudo apt-get install mariadb-server
+sudo mysql_secure_installation
+sudo systemctl start mariadb
+sudo mariadb
+java --version
+>>>>>>> 43f9153db0abdba350a84cde6edd0aa6f9bf18b7
